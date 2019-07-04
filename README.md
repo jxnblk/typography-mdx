@@ -1,4 +1,6 @@
 
+**DEPRECATED** See https://theme-ui.com
+
 # typography-mdx
 
 Create [MDX][] components from [Typography.js][] themes
